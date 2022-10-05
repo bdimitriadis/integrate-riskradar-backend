@@ -1,0 +1,88 @@
+{
+  "question_1": {
+    "text": "Jesu li ti INTEGRATE alati bili korisni?",
+    "options": ["Da", "Ne"]
+  },
+  "question_2": {
+    "text": "Koje sekcije su ti bile najkorisnije?",
+    "options": ["Kalkulator rizika", "Informacije o HIV-u/Hep/SPI",
+      "Informacije o TB", "Informacije o PrEP-u","N=N", "Pronalazak testiranja", "Obavještavanje partnera"]
+  },
+  "question_3": {
+    "text": "Hoćeš li poduzeti neku akciju nakon korištenja INTEGRATE alata?",
+    "options": ["Da", "Ne"]
+  },
+  "question_4": {
+    "text": "Što ćeš poduzeti?",
+    "options": ["Testirat ću se", "Potražit ću savjet", "Započeti ću s PrEP-om",
+      "Započet ću s terapijom", "Obavijestit ću partnera/e", "Otići ću liječniku",
+      "Dogovorit ću sljedeći termin za pregled", "Prestat ću dijeliti opremu za injektiranje"
+    ]
+  },
+  "question_5": {
+    "text": "Hoćeš li ponovo koristiti INTEGRATE alate?",
+    "options": ["Da", "Ne"]
+  },
+  "question_6": {
+    "text": "Jesi li:",
+    "options": ["Muškarac", "Žena", "Trans muškarac", "Trans žena"]
+  },
+  "question_7": {
+    "text": "Tvoja dob je:",
+    "options": ["17 ili manje", "18-24", "25-34", "35-44",
+      "45-54", "55-64", "65 ili više"
+    ]
+  },
+  "question_8": {
+    "text": "Molimo te da ocijeniš INTEGRATE alate odabirom jedne ocjene po redu",
+    "options": [
+      {
+        "left_label": "ometajući",
+        "right_label": "podržavajući",
+        "score": [
+          1,
+          7
+        ]
+      },
+      {
+        "left_label": "kompliciran",
+        "right_label": "razumljiv",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "neučinkovit",
+        "right_label": "učinkovit",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "zbunjujuć",
+        "right_label": "Japan",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "dosadan",
+        "right_label": "zabavan",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "nezanimljiv",
+        "right_label": "zanimljiv",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "konvencionalan",
+        "right_label": "invention",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "uobičajen",
+        "right_label": "neuobičajen",
+        "score": [1, 7]
+      }
+    ]
+  },
+  "question_9": {
+    "text": "Imaš li neki prijedlog za poboljšanje usluge INTEGRATE Risk Radar?",
+    "options": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "question_1": {
+    "text": "Did you find the INTEGRATE Toolkit useful?",
+    "options": ["Yes", "No"]
+  },
+  "question_2": {
+    "text": "Which were the features that captured your interest the most?",
+    "options": ["Risk Calculator", "Facts about HIV/Hep/STIs",
+      "Facts about TB", "Facts about PrEP","U=U", "Test Finder", "Partner Notification"]
+  },
+  "question_3": {
+    "text": "Will you take some action as a result of consulting the INTEGRATE Toolkit?",
+    "options": ["Yes", "No"]
+  },
+  "question_4": {
+    "text": "Which action?",
+    "options": ["Get tested", "Seek advice", "Start PrEP",
+      "Start treatment", "Notify my partners", "See a doctor",
+      "Schedule my next appointments", "Stop sharing injecting equipment"
+    ]
+  },
+  "question_5": {
+    "text": "Will you use it again?",
+    "options": ["Yes", "No"]
+  },
+  "question_6": {
+    "text": "Are you a :",
+    "options": ["Man", "Woman", "Trans man", "Trans woman"]
+  },
+  "question_7": {
+    "text": "Your age is :",
+    "options": ["17 or younger", "18-24", "25-34", "35-44",
+      "45-54", "55-64", "65 or older"
+    ]
+  },
+  "question_8": {
+    "text": "Please assess the INTEGRATE toolkit by selecting one circle per line",
+    "options": [
+      {
+        "left_label": "obstructive",
+        "right_label": "supportive",
+        "score": [
+          1,
+          7
+        ]
+      },
+      {
+        "left_label": "complicated",
+        "right_label": "easy",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "inefficient",
+        "right_label": "efficient",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "confusing",
+        "right_label": "clear",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "boring",
+        "right_label": "exiting",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "not interesting",
+        "right_label": "interesting",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "conventional",
+        "right_label": "inventive",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "usual",
+        "right_label": "leading edge",
+        "score": [1, 7]
+      }
+    ]
+  },
+  "question_9": {
+    "text": "Do you have any suggestions to improve the INTEGRATE Risk Radar?",
+    "options": []
+  }
+}

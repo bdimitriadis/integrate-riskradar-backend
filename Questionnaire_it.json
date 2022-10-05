@@ -1,0 +1,85 @@
+{
+  "question_1": {
+    "text": "Hai trovato questo sito web/questa app utile??",
+    "options": ["Sì", "No"]
+  },
+  "question_2": {
+    "text": "Quali tra le diverse sezioni hanno catturato maggiormente il tuo interesse? (È possibile indicare più risposte)",
+    "options": ["Il calcolatore di Rischio", "Le schede informative su HIV/epatiti/IST",
+      "Le schede informative su TB", "La sezione sulla PrEP","La sezione U=U", "Il localizzatore dei servizi presso cui fare il testr", "La sezione sulla partner notification"]
+  },
+  "question_3": {
+    "text": "L’avere consultato questo sito web / questa app ti porterà a prendere qualche iniziativa?",
+    "options": ["Sì", "No"]
+  },
+  "question_4": {
+    "text": "Quale iniziativa?",
+    "options": ["Fare il test", "Cercare aiuto/consulenza", "Iniziare la PrEP",
+      "Iniziare la terapia", "Notificare i miei partner", "Rivolgermi a un medico",
+      "Programmare i miei prossimi appuntamenti", "Smettere di condividere siringhe e altri strumenti per l’iniezione"
+    ]
+  },
+  "question_5": {
+    "text": "Lo utilizzerai ancora?",
+    "options": ["Sì", "No"]
+  },
+  "question_6": {
+    "text": "Sei un/a :",
+    "options": ["Uomo", "Donna", "Donna Transessuale", "Uomo Transessuale"]
+  },
+  "question_7": {
+    "text": "La tua età :",
+    "options": ["Meno di 18 anni", "18-24", "25-34", "35-44",
+      "45-54", "55-64", "65 anni o più"
+    ]
+  },
+  "question_8": {
+    "text": "Per favore, valuta questa app indicando un punteggio per ogni linea",
+    "options": [
+      {
+        "left_label": "ostruttiva",
+        "right_label": "di supporto",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "complicato",
+        "right_label": "facile",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "inefficiente",
+        "right_label": "efficiente",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "confuso",
+        "right_label": "chiaro",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "noioso",
+        "right_label": "appassionante",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "non interessante",
+        "right_label": "interessante",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "convenzionale",
+        "right_label": "originale",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "usuale",
+        "right_label": "moderno",
+        "score": [1, 7]
+      }
+    ]
+  },
+  "question_9": {
+    "text": "Vuoi darci qualche suggerimento per migliorare il RiskRadar di INTEGRATE?",
+    "options": []
+  }
+}

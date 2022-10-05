@@ -1,0 +1,85 @@
+{
+  "question_1": {
+    "text": "Ar šis internetinis puslapis/ programėlė (toliau – Priemonė) buvo Jums naudinga?",
+    "options": ["Taip", "Ne"]
+  },
+  "question_2": {
+    "text": "Kurie šios Priemonės komponentai jus labiausiai sudomino?",
+    "options": ["Rizikos skaičiuoklė", "Faktai apie ŽIV/hepatitus/LPI",
+      "Faktai apie TB", "Faktai apie preekspozicinę profilaktiką","Neaptinkamas = neperduodamas", "Tyrimų paieška", "Partnerių informavimas"]
+  },
+  "question_3": {
+    "text": "Ar ši Priemonė paskatino Jus imtis veiksmų?",
+    "options": ["Taip", "Ne"]
+  },
+  "question_4": {
+    "text": "Jeigu taip, kokių veiksmų?",
+    "options": ["Kreipsiuosi pasitikrinti", "Kreipsiuosi patarimo ", "Pradėsiu vartoti preekspozicinės profilaktikos priemones",
+      "Pradėsiu gydymą", "Pranešiu partneriams", "Kreipsiuosi į gydytoją",
+      "Numatysiu kitus savo vizitus pas gydytoją", "Nesidalinsiu švirkštimosi priemonėmis"
+    ]
+  },
+  "question_5": {
+    "text": "Ar ketinate ir vėl pasinaudoti šia Priemone?",
+    "options": ["Taip", "Ne"]
+  },
+  "question_6": {
+    "text": "Jūsų lytis:",
+    "options": ["Vyras", "Moteris", "Translytė moteris", "Translytis vyras"]
+  },
+  "question_7": {
+    "text": "Jūsų amžius:",
+    "options": ["17 ar jaunesni", "18-24", "25-34", "35-44",
+      "45-54", "55-64", "65 metų ar vyresni"
+    ]
+  },
+  "question_8": {
+    "text": "Prašome įvertinti Priemonę – pažymėkite po vieną rutuliuką kiekvienoje eilutėje",
+    "options": [
+      {
+        "left_label": "sukelianti sunkumų",
+        "right_label": "padedanti",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "sudėtinga",
+        "right_label": "paprasta",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "neveiksminga",
+        "right_label": "veiksminga",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "paini",
+        "right_label": "aiški",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "nuobodi",
+        "right_label": "jaudinanti",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "neįdomi",
+        "right_label": "įdomi",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "tradicinė",
+        "right_label": "išradinga",
+        "score": [1, 7]
+      },
+      {
+        "left_label": "įprasta",
+        "right_label": "naujoviškas",
+        "score": [1, 7]
+      }
+    ]
+  },
+  "question_9": {
+    "text": "Ar Jūs turite kokių patobulinimų INTEGRATE Riskradar?",
+    "options": []
+  }
+}
